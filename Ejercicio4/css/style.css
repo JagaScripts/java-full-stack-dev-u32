@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.dropdown-divider{
+    border-color: white;
+}
+
+.destacado{
+    background-color: rgb(224, 224, 224);
+}
