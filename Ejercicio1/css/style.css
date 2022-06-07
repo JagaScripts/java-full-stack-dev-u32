@@ -17,3 +17,18 @@ body{
    float: right;
 
 }
+
+.float-left{
+   float: left;
+   margin-top: 10px;
+   width: 90%;
+}
+
+.float-right{
+   float: left;
+   margin-top: 10px;
+}
+
+.card-body{
+   background-color: lightgray;
+}
